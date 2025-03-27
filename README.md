@@ -15,10 +15,6 @@ This project is a Python-based tool for scraping card data from the Cardmarket w
 - Selenium WebDriver (Edge)
 - Required Python libraries: `argparse`, `pandas`, `bs4`, `selenium`
 
-## Current know limitations
-
-- Double sided cards
-
 ## Usage
 
 1. Install the required Python libraries:
